@@ -1,1 +1,5 @@
-# Classification with Multinomial Naive Bayes
+# Classification Models
+
+## Models 
+- Multinomial Naive Bayes
+- Adaboost
